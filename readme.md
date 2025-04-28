@@ -7,5 +7,9 @@ Open Hiddify with sudo using [qsudo](https://github.com/sr-tream/qsudo)
 - Hiddify
 
 #### Usage
-
-`./script.sh`
+```
+    git clone https://github.com/Sadiu9/hiddify-admin.git
+    cd hiddify-admin
+    chmod +X script.sh
+    ./script.sh
+```
