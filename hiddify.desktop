@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Network;
+Comment[ru_RU]=
+Comment=
+Exec=qsudo -E hiddify
+GenericName[ru_RU]=Hiddify
+GenericName=Hiddify
+Icon=hiddify
+Keywords=Hiddify;Proxy;VPN;V2ray;Nekoray;Xray;Psiphon;OpenVPN;
+MimeType=
+Name[ru_RU]=Hiddify
+Name=Hiddify
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
